@@ -1,6 +1,6 @@
 ^C:\USERS\МАТВЕЙ\DESKTOP\GOTESTS\LABA2\BUILD\CMAKEFILES\45283C7B2657B6FC65544B5D50ACEB5D\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Матвей/Desktop/goTests/Laba2 -BC:/Users/Матвей/Desktop/goTests/Laba2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Матвей/Desktop/goTests/Laba2/build/Laba42.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Матвей/Desktop/goTests/Laba2 -BC:/Users/Матвей/Desktop/goTests/Laba2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Матвей/Desktop/goTests/Laba2/build/Laba2.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
